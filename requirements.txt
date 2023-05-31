@@ -1,0 +1,9 @@
+botbuilder-core>=4.7.0
+aiohttp
+openai
+numpy
+pandas
+matplotlib
+tiktoken
+langchain
+faiss-cpu
